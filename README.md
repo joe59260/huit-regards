@@ -33,7 +33,7 @@ Trouver des variations dans le noir, sans que tout devienne gris… ni qu’on n
 
 ![Carte inspirée de Kandinsky](jpeg/kandinsky.jpg)
 
-Des aplats, du jaune, du rouge, des traits noirs et des formes géométriques. Le plus compliqué est de garder cette composition en dézoomant tout en gardant les formes propres à Kandinsky dont le fameux triangle ! 
+Des aplats, du jaune, du rouge, des traits noirs , des formes et des lieux importants représentés par des symboles. Le plus compliqué est de garder cette composition en dézoomant tout en gardant les formes propres à Kandinsky dont le fameux triangle ! 
 
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=kandinsky&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/kandinsky.json) 
 
