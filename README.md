@@ -12,7 +12,7 @@ Vous trouverez ici les huit interprétations, les cartes à explorer et les JSON
 
 **Conception : Joe-Ann Ball**
 
-[Explorer la carte](https://joe59260.github.io/huit-regards/) · [Voir les fichiers du projet](https://github.com/joe59260/huit-regards)
+[Explorer la carte](https://joe59260.github.io/huit-regards/) 
 
 ## Klein
 
