@@ -16,9 +16,13 @@ Vous trouverez ici les huit interprétations, les cartes à explorer et les JSON
 
 Du bleu, et encore du bleu. Le travail s’est surtout joué dans les nuances, pour garder du relief.
 
+![Carte inspirée de Klein](jpeg/klein.jpg)
+
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=klein&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/klein.json) 
 
 ## Soulages
+
+![Carte inspirée de Soulages](jpeg/soulages.jpg)
 
 Trouver des variations dans le noir, sans que tout devienne gris… ni qu’on ne voie plus rien. Un équilibre qui a demandé quelques essais ( 18 en tout ! )
 
@@ -26,23 +30,32 @@ Trouver des variations dans le noir, sans que tout devienne gris… ni qu’on n
 
 ## Kandinsky
 
-Des aplats, du jaune, du rouge, des traits noirs et des formes géométriques. Le plus compliqué est de garder cette composition en dézoomant, sans se retrouver avec de gros cercles partout.
+![Carte inspirée de Kandinsky](jpeg/kandinsky.jpg)
+
+Des aplats, du jaune, du rouge, des traits noirs et des formes géométriques. Le plus compliqué est de garder cette composition en dézoomant tout en gardant les formes propres à Kandinsky dont le fameux triangle ! 
 
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=kandinsky&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/kandinsky.json) 
 
 ## Klee
 
-Des ocres, de la terre cuite, du vieux rose, du turquoise et des verts plus profonds. Comme dans la peinture.
+![Carte inspirée de Klee](jpeg/klee.jpg)
+
+De l'ocre, de la terre cuite, du vieux rose, du turquoise et des verts plus profonds. Comme dans la peinture.
 
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=klee&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/klee.json) 
 
 ## Matisse
 
-Une recherche autour des papiers découpés : des couleurs franches et des séparations lisibles, en essayant de retrouver quelque chose de l'assemblage propre à Matisse dans la carte.
+![Carte inspirée de Matisse](jpeg/matisse.jpg)
+
+Une recherche autour des papiers découpés en essayant de retrouver quelque chose de l'assemblage propre à Matisse dans la carte.
 
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=matisse&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/matisse.json) 
 
 ## Monet
+
+![Carte inspirée de Monet](jpeg/monet.jpg)
+
 
 Une version proche de l'impressionisme et des tons pastel : vert eau,  mauve et moins de contours. Une autre façon de faire apparaître les bâtiments et la végétation.
 
@@ -50,10 +63,14 @@ Une version proche de l'impressionisme et des tons pastel : vert eau,  mauve et 
 
 ## Niki de Saint Phalle
 
+![Carte inspirée de Niki de Saint Phalle](jpeg/niki-de-saint-phalle.jpg)
+
 Des couleurs vives, des contours noirs et des repères ronds. Ici, j’avais envie de quelque chose de plus joyeux et contrasté à l'image des grosses nanas dont elle avait le secret.
 
 [Voir la carte](https://joe59260.github.io/huit-regards/?style=niki-de-saint-phalle&lieu=lille) · [JSON du style](https://joe59260.github.io/huit-regards/styles/niki-de-saint-phalle.json) 
 ## Hundertwasser
+
+![Carte inspirée de Hundertwasser](jpeg/hundertwasser.jpg)
 
 J'aime la manière dont il représente la ville donc c'était une évidence de le voir ici mais la couleur seule ne suffisait pas : il fallait aussi travailler les motifs.
 
