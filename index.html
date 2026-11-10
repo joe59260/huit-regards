@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Huit regards</title>
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="app.css?v=plain1">
+</head>
+<body>
+
+<div id="map" role="region" aria-label="Carte interactive"></div>
+
+<div id="menu" role="region" aria-label="Choix du style et téléchargements">
+  <select id="style" aria-label="Artiste">
+    <option value="klein">Klein</option>
+    <option value="soulages">Soulages</option>
+    <option value="kandinsky">Kandinsky</option>
+    <option value="klee">Klee</option>
+    <option value="matisse">Matisse</option>
+    <option value="monet">Monet</option>
+    <option value="niki-de-saint-phalle">Niki de Saint Phalle</option>
+    <option value="hundertwasser">Hundertwasser</option>
+  </select>
+  <select id="destination" aria-label="Lieu">
+    <option value="lille">Lille</option>
+    <option value="paris">Paris</option>
+    <option value="lyon">Lyon</option>
+    <option value="marseille">Marseille</option>
+    <option value="bordeaux">Bordeaux</option>
+    <option value="strasbourg">Strasbourg</option>
+    <option value="gueret">Guéret</option>
+    <option value="bastia">Bastia</option>
+    <option value="reunion">Saint-Denis (Réunion)</option>
+    <option value="guadeloupe">Pointe-à-Pitre</option>
+    <option value="martinique">Fort-de-France</option>
+    <option value="guyane">Cayenne</option>
+    <option value="mayotte">Mamoudzou</option>
+    <option value="france">France</option>
+  </select>
+  <div class="actions">
+    <a id="view-json" href="styles/klein.json" target="_blank" rel="noopener">voir le JSON</a>
+    <a id="download-json" href="styles/klein.json" download>télécharger le JSON</a>
+    <button id="download-jpeg" type="button" disabled>télécharger en JPEG</button>
+    <button id="share" type="button">copier le lien</button>
+  </div>
+  <small>Conception : Joe-Ann Ball</small>
+</div>
+
+<p id="status" role="status">Chargement…</p>
+<p id="toast" role="status" hidden></p>
+<noscript>Activez JavaScript pour explorer la carte. Les fichiers JSON sont disponibles dans le dossier styles.</noscript>
+<script src="vendor/maplibre-gl.js"></script>
+<script src="app.js?v=plain1"></script>
+</body>
+</html>

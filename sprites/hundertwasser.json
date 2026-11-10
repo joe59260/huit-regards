@@ -1,0 +1,30 @@
+{
+  "hw-windows": {
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 1
+  },
+  "hw-spiral": {
+    "x": 128,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 1
+  },
+  "hw-canopies": {
+    "x": 0,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 1
+  },
+  "hw-windows-alt": {
+    "x": 128,
+    "y": 128,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 1
+  }
+}
