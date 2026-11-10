@@ -98,7 +98,7 @@ Petite particularité pour Hundertwasser : ses motifs sont dans le dossier `spri
 
 ## Crédits
 
-Conception : moi meme ( joe-ann ) 
+Conception : moi meme ( joe-ann ) / aide de l'ia pour l'affichage
 
 Données © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), tuiles [OpenFreeMap](https://openfreemap.org/), affichage [MapLibre](https://maplibre.org/). 
 
